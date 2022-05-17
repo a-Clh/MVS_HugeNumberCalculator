@@ -1,0 +1,3 @@
+/Users/arthurcoelho/Documents/MVS_HugeNumberCalculator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/arthurcoelho/Documents/MVS_HugeNumberCalculator/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/arthurcoelho/Documents/MVS_HugeNumberCalculator/cmake-build-debug/CMakeFiles/MVS_HugeNumberCalculator.dir

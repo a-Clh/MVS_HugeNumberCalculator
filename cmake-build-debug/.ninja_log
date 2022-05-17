@@ -1,0 +1,22 @@
+# ninja log v5
+1	217	1652782953680905335	CMakeFiles/..dir/main.c.o	9c90348e4659cc02
+7	258	1652782953719700643	CMakeFiles/..dir/UseHugeNumber/Operator/HugeIntOperator.c.o	989ae87d50e70861
+218	321	1652782953788509762	CMakeFiles/..dir/UseHugeNumber/Operator/HugeFloatOperator.c.o	430551b1ffcb5bc1
+252	333	1652782953800283737	CMakeFiles/..dir/UseHugeNumber/Operator/HugeUnsignedIntOperator.c.o	300cef760408ca96
+258	330	1652782953798014179	CMakeFiles/..dir/UseHugeNumber/Type/HugeFloat.c.o	dd95456b230c52de
+274	346	1652782953813291686	CMakeFiles/..dir/UseHugeNumber/Type/HugeInt.c.o	f8e0ef4da38e61f3
+5	368	1652782953834306370	CMakeFiles/..dir/IHMHugeNumber/ShowHugeNumber.c.o	9482f925263185a6
+0	273	1652782953726398265	CMakeFiles/..dir/UseHugeNumber/Type/HugeUnsignedInt.c.o	ed48c85fae84bf11
+4	251	1652782953718209439	CMakeFiles/..dir/IHMHugeNumber/ScanHugeNumber.c.o	450a9e1cafb4d18
+1	372	1652782953839427451	CMakeFiles/..dir/DataTypes/DoublyLinkedList.c.o	6d0d0a5f5d4b7f75
+1	144	1652782976486057233	CMakeFiles/MVS_HugeNumberCalculator.dir/IHMHugeNumber/ScanHugeNumber.c.o	566fbfe66ef593db
+3	166	1652782976509096819	CMakeFiles/MVS_HugeNumberCalculator.dir/UseHugeNumber/Operator/HugeIntOperator.c.o	13dfe01962225c38
+2	172	1652782976511651067	CMakeFiles/MVS_HugeNumberCalculator.dir/UseHugeNumber/Operator/HugeFloatOperator.c.o	b98370d6a0dd5740
+4	180	1652782976521334120	CMakeFiles/MVS_HugeNumberCalculator.dir/UseHugeNumber/Operator/HugeUnsignedIntOperator.c.o	b078c4ebafefd570
+180	243	1652782976586398838	CMakeFiles/MVS_HugeNumberCalculator.dir/main.c.o	96df746c9af4ed1
+1	256	1652782976594618073	CMakeFiles/MVS_HugeNumberCalculator.dir/DataTypes/DoublyLinkedList.c.o	e08350f79e7acebb
+166	275	1652782976613750879	CMakeFiles/MVS_HugeNumberCalculator.dir/UseHugeNumber/Type/HugeInt.c.o	1a97b1be7e3b5186
+2	283	1652782976620768419	CMakeFiles/MVS_HugeNumberCalculator.dir/IHMHugeNumber/ShowHugeNumber.c.o	6d1059c00804f1b4
+172	286	1652782976621235873	CMakeFiles/MVS_HugeNumberCalculator.dir/UseHugeNumber/Type/HugeUnsignedInt.c.o	47b8c2a1542fec5f
+145	288	1652782976625222833	CMakeFiles/MVS_HugeNumberCalculator.dir/UseHugeNumber/Type/HugeFloat.c.o	e104e63d3c18df57
+288	398	1652782976741725490	MVS_HugeNumberCalculator	bd7e06cbc8057588
