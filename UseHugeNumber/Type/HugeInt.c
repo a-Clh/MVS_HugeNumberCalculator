@@ -7,6 +7,7 @@ HugeInt* createHugeInt (void) {
 
     if (hugeInt != NULL) {
         HugeUnsignedInt* absoluteValue = createHugeUnsignedInt ();
+        hugeInt->absoluteValue = absoluteValue;
         hugeInt->sign = PLUS;
     }
 
